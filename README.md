@@ -1,4 +1,5 @@
 # Stupid Simple Todo
+![simplestupidtodo](https://github.com/user-attachments/assets/ca85c172-e046-4c25-9cc5-5b597ea70c6e)
 
 ## Description
 
